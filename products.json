@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" Milk Chocolate",
+        "price": 200,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" Dark Chocolate",
+        "price": 250,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Semisweet Chocolate",
+        "price": 290,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" Bittersweet Chocolate",
+        "price": 200,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":"Bittersweet Chocolate",
+        "price": 300,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" Baking Chocolate",
+        "price": 200,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" Couverture Chocolate",
+        "price": 200,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Candy Coating Chocolate",
+        "price": 200,
+        "image": "image/8.png"
+    }
+
+]
